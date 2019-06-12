@@ -1,4 +1,4 @@
-### class-material-githubのリポジトリでquestion3 フォルダー内のファイルを修正するブランチを作成し、関数の修正を行い master ブランチにマージを行うこと
+### class-material-githubのリポジトリ内のquestion3 フォルダー内のファイルをブランチを使用して修正し、作成したブランチを master ブランチにマージを行うこと
 
 ### [Anser is here][1]
 
