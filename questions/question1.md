@@ -1,4 +1,4 @@
-### Github でリポジトリの作成を行いローカルに clone を行う (README.md ファイルの作成を行うこと)
+### Github で当リポジトリの clone を行う (README.md ファイルの作成を行うこと)
 
 ### [Anser is here][1]
 
