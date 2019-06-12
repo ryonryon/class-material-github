@@ -1,6 +1,6 @@
-### 下記に従い question フォルダー内の README.md を修正し master ブランチにマージを行うこと
+### 下記に従い question4 フォルダー内の README.md を修正し master ブランチにマージを行うこと
 
-1.  ブランチを作成しローカルにてREADME.md ファイルの修正を行う
+1.  README.md ファイル修正のためのブランチを作成を行う
 
 2.  Github 上で README.md ファイルのを修正を行う[question4][1] (修正内容は最終行に`# README edit from Github version2`を追加)
 
