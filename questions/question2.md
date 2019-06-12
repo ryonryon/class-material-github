@@ -1,4 +1,4 @@
-### ローカルにディレクトリとREADME.mdを作成し、Github にアップロードを行うこと
+### ローカルにgithub-practiceディレクトリとREADME.mdを作成し、Github にアップロードを行うこと
 
 ### [Anser is here][1]
 
